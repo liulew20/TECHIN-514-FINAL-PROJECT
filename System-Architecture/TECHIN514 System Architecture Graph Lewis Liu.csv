@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"Brd1","1","SSD1306","","","","",""
+"D1","1","NeoPixel_THT","","","","","https://www.adafruit.com/product/1938"
+"R1","1","10k","","","","","~"
+"SW1,SW2,SW3","3","SW_Push","","","","","~"
+"U1,U3","2","XIAO ESP32C3","","","","XIAO_ESP32C3:xiao_esp32c3","https://files.seeedstudio.com/wiki/Seeed-Studio-XIAO-ESP32/esp32-c3_datasheet.pdf"
+"U2","1","A3144","","","","",""
